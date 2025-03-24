@@ -1,0 +1,7 @@
+﻿  resizebox.cxx
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(6528,11): error C2059: syntax error: 'constant'
+  (compiling source file '../../test/resizebox.cxx')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(6528,16): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../test/resizebox.cxx')
+  

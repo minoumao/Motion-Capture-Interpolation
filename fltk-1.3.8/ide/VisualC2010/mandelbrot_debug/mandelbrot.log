@@ -1,0 +1,6 @@
+﻿  Create .cxx and .h file with fluidd
+  Compiling fluid files ...
+  mandelbrot.cxx
+  mandelbrot_ui.cxx
+  Generating Code...
+  mandelbrot.vcxproj -> C:\Users\violi\OneDrive\Desktop\CSCI-520\HW2\csci520-assignment2-startercode\csci520-assignment2-startercode\fltk-1.3.8\test\mandelbrotd.exe

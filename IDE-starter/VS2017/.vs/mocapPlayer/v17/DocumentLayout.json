@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\IDE-starter\\VS2017\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\motion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\motion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\performanceCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4816BE-D01C-449A-94C5-ADC00E4BD46E}|mocapPlayer\\mocapPlayer.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\skeleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4816BE-D01C-449A-94C5-ADC00E4BD46E}|mocapPlayer\\mocapPlayer.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4816BE-D01C-449A-94C5-ADC00E4BD46E}|mocapPlayer\\mocapPlayer.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\posture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38F94B2-65E3-42AD-B514-6D4C4F81D923}|interpolate\\interpolate.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\quaternion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4816BE-D01C-449A-94C5-ADC00E4BD46E}|mocapPlayer\\mocapPlayer.vcxproj|C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\mocapPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "interpolator.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolator.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\interpolator.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolator.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\interpolator.cpp",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAowIABAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:19:18.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "interpolator.h",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolator.h",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\interpolator.h",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolator.h",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\interpolator.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T04:46:25.452Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "motion.h",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\motion.h",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\motion.h",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\motion.h",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\motion.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-11T08:01:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "motion.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\motion.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\motion.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\motion.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\motion.cpp",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAowDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:11:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "interpolate.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolate.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\interpolate.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\interpolate.cpp*",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\interpolate.cpp*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:20:33.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "transform.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\transform.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\transform.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\transform.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\transform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:20:26.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "skeleton.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\skeleton.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\skeleton.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\skeleton.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\skeleton.cpp",
+              "ViewState": "AgIAACECAAAAAAAAAAAQwDQCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:20:12.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "posture.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\posture.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\posture.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\posture.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\posture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:20:05.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\vector.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\vector.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\vector.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\vector.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:18:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "quaternion.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\quaternion.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\quaternion.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\quaternion.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\quaternion.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:11:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "performanceCounter.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\performanceCounter.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\performanceCounter.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\performanceCounter.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\performanceCounter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:11:15.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mocapPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\mocapPlayer.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mocapPlayer-starter\\mocapPlayer.cpp",
+              "ToolTip": "C:\\Users\\violi\\OneDrive\\Desktop\\CSCI-520\\HW2\\csci520-assignment2-startercode\\csci520-assignment2-startercode\\mocapPlayer-starter\\mocapPlayer.cpp",
+              "RelativeToolTip": "..\\..\\mocapPlayer-starter\\mocapPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T10:11:12.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
