@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  cairo_test.cxx
+cairo_test.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  cairo_test.vcxproj -> C:\Users\violi\OneDrive\Desktop\CSCI-520\HW2\csci520-assignment2-startercode\csci520-assignment2-startercode\fltk-1.3.8\test\cairo_testd.exe
